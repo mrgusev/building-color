@@ -1,0 +1,17 @@
+{
+  "name": "building-color",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mrgusev/building-color",
+  "authors": [
+    "Kirill Gusev <mr.gusev.k@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
